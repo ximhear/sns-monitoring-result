@@ -1,25 +1,25 @@
 [
-  { "index": 0, "name": "Linux", "date": "이 기기", "deviceType": "4" },
   {
-    "index": 1,
+    "index": 0,
     "name": "Mac",
-    "date": "오늘 오전 3:57(1시간 전)",
+    "date": "오늘 오전 7:52(방금)",
+    "location": "대한민국 경기도 성남시",
+    "deviceType": "5"
+  },
+  { "index": 1, "name": "Linux", "date": "오늘 오전 5:12(2시간 전)", "deviceType": "4" },
+  {
+    "index": 2,
+    "name": "Mac",
+    "date": "오늘 오전 3:57(3시간 전)",
     "location": "대한민국 인천광역시",
     "deviceType": "5"
   },
   {
-    "index": 2,
+    "index": 3,
     "name": "C.H의 iPhoneX",
     "date": "어제 오후 11:44",
     "location": "대한민국",
     "deviceType": "2"
-  },
-  {
-    "index": 3,
-    "name": "Mac",
-    "date": "어제 오후 3:34",
-    "location": "대한민국 경기도 성남시",
-    "deviceType": "5"
   },
   {
     "index": 4,
@@ -51,4 +51,4 @@
   }
 ]
 
-Wed May 22 2019 05:12:59 GMT+0900 (Korean Standard Time)
+Wed May 22 2019 07:52:12 GMT+0900 (Korean Standard Time)
