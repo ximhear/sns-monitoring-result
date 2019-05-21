@@ -1,0 +1,24 @@
+{
+  "applications": [
+    {
+      "app_id": "16158553",
+      "name": "Statusbrew",
+      "organization": "Statusbrew",
+      "organization_url": "https://statusbrew.com",
+      "suspended": false,
+      "img_url": "https://pbs.twimg.com/app_img/1105987827970568197/6gQxOAVb?format=png&name=73x73",
+      "ios": false,
+      "description": "Statusbrew is a complete Social Media Marketing platform.",
+      "approved": 1558417725000,
+      "can_read_dms": true,
+      "can_write": true,
+      "can_read": true,
+      "email_access": true,
+      "token": "284565188-GL2xmjvULG37tlQw6TBHtwnYlIwjYANUdhKTYfml",
+      "has_ads_read_access": false,
+      "has_ads_read_write_access": false
+    }
+  ]
+}
+
+Wed May 22 2019 04:41:26 GMT+0900 (Korean Standard Time)
