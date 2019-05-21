@@ -1,9 +1,9 @@
 [
-  { "index": 0, "name": "Linux", "date": "이 기기", "deviceType": "4" },
+  { "index": 0, "name": "Linux", "date": "오늘 오전 5:06(방금)", "deviceType": "4" },
   {
     "index": 1,
     "name": "Mac",
-    "date": "오늘 오전 3:57(51분 전)",
+    "date": "오늘 오전 3:57(1시간 전)",
     "location": "대한민국 인천광역시",
     "deviceType": "5"
   },
@@ -51,4 +51,4 @@
   }
 ]
 
-Wed May 22 2019 04:49:42 GMT+0900 (Korean Standard Time)
+Wed May 22 2019 05:06:25 GMT+0900 (Korean Standard Time)
