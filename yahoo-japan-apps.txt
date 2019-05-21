@@ -1,0 +1,15 @@
+{
+  "applications": [
+    {
+      "index": 0,
+      "name": "ZOZOTOWN",
+      "appId": "dj0yJmk9eE1mMktUamhKOVYwJmQ9WVdrOWFHNU1jWFl5TnpZbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD04NA--",
+      "clientId": null,
+      "alias": "chlee_0407",
+      "actionUrl": "https://accounts.yahoo.co.jp/privacy/optout/auth?.done=https%3A%2F%2Fwww.yahoo.co.jp%2F",
+      "detailUrl": "https://accounts.yahoo.co.jp/privacy/optout/auth/tos?.done=https%3A%2F%2Fwww.yahoo.co.jp%2F&alias=chlee_0407&client_id=&appid=dj0yJmk9eE1mMktUamhKOVYwJmQ9WVdrOWFHNU1jWFl5TnpZbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD04NA--"
+    }
+  ]
+}
+
+Wed May 22 2019 04:35:22 GMT+0900 (Korean Standard Time)
