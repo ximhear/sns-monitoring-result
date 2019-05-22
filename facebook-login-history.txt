@@ -1,6 +1,6 @@
 [
   { "index": 0, "name": "iPhone", "location": "서울", "time": "현재 활동 중", "deviceType": "iphone" },
-  { "index": 1, "name": "iPhone", "location": "서울", "time": "19초 전", "deviceType": "iphone" },
+  { "index": 1, "name": "iPhone", "location": "서울", "time": "17초 전", "deviceType": "iphone" },
   { "index": 2, "name": "iPhone", "location": "서울", "time": "59분 전", "deviceType": "iphone" },
   { "index": 3, "name": "iPhone", "location": "서울", "time": "약 1시간 전", "deviceType": "iphone" },
   { "index": 4, "name": "iPhone", "location": "서울", "time": "약 1시간 전", "deviceType": "iphone" },
@@ -8,182 +8,176 @@
   { "index": 6, "name": "iPhone", "location": "서울", "time": "2시간 전", "deviceType": "iphone" },
   { "index": 7, "name": "iPhone", "location": "서울", "time": "2시간 전", "deviceType": "iphone" },
   { "index": 8, "name": "iPhone", "location": "서울", "time": "3시간 전", "deviceType": "iphone" },
-  { "index": 9, "name": "iPhone", "location": "서울", "time": "3시간 전", "deviceType": "iphone" },
-  { "index": 10, "name": "iPhone", "location": "서울", "time": "3시간 전", "deviceType": "iphone" },
+  { "index": 9, "name": "iPhone", "location": "서울", "time": "4시간 전", "deviceType": "iphone" },
+  { "index": 10, "name": "iPhone", "location": "서울", "time": "4시간 전", "deviceType": "iphone" },
   { "index": 11, "name": "iPhone", "location": "서울", "time": "4시간 전", "deviceType": "iphone" },
-  { "index": 12, "name": "iPhone", "location": "서울", "time": "4시간 전", "deviceType": "iphone" },
-  {
-    "index": 13,
-    "name": "iPhone",
-    "location": "South Korea 경기도 시흥",
-    "time": "4시간 전",
-    "deviceType": "iphone"
-  },
+  { "index": 12, "name": "iPhone", "location": "서울", "time": "5시간 전", "deviceType": "iphone" },
+  { "index": 13, "name": "iPhone", "location": "서울", "time": "5시간 전", "deviceType": "iphone" },
   {
     "index": 14,
     "name": "iPhone",
     "location": "South Korea 경기도 시흥",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "deviceType": "iphone"
   },
   {
     "index": 15,
     "name": "iPhone",
     "location": "South Korea 경기도 시흥",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "deviceType": "iphone"
   },
   {
     "index": 16,
-    "name": "Mac",
+    "name": "iPhone",
     "location": "South Korea 경기도 시흥",
-    "time": "4시간 전",
-    "deviceType": "mac"
+    "time": "5시간 전",
+    "deviceType": "iphone"
   },
   {
     "index": 17,
-    "name": "iPhone",
+    "name": "Mac",
     "location": "South Korea 경기도 시흥",
-    "time": "4시간 전",
-    "deviceType": "iphone"
+    "time": "5시간 전",
+    "deviceType": "mac"
   },
   {
     "index": 18,
     "name": "iPhone",
     "location": "South Korea 경기도 시흥",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "deviceType": "iphone"
   },
   {
     "index": 19,
     "name": "iPhone",
     "location": "South Korea 경기도 시흥",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "deviceType": "iphone"
   },
   {
     "index": 20,
     "name": "iPhone",
     "location": "South Korea 경기도 시흥",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "deviceType": "iphone"
   },
   {
     "index": 21,
     "name": "iPhone",
     "location": "South Korea 경기도 시흥",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "deviceType": "iphone"
   },
   {
     "index": 22,
     "name": "iPhone",
     "location": "South Korea 경기도 시흥",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "deviceType": "iphone"
   },
   {
     "index": 23,
-    "name": "Mac",
-    "location": "South Korea 경기도 시흥",
-    "time": "4시간 전",
-    "deviceType": "mac"
-  },
-  {
-    "index": 24,
-    "name": "iPhone",
-    "location": "South Korea 경기도 시흥",
-    "time": "4시간 전",
-    "deviceType": "iphone"
-  },
-  { "index": 25, "name": "iPhone", "location": "서울", "time": "4시간 전", "deviceType": "iphone" },
-  {
-    "index": 26,
     "name": "iPhone",
     "location": "South Korea 경기도 시흥",
     "time": "5시간 전",
     "deviceType": "iphone"
   },
+  {
+    "index": 24,
+    "name": "Mac",
+    "location": "South Korea 경기도 시흥",
+    "time": "5시간 전",
+    "deviceType": "mac"
+  },
+  {
+    "index": 25,
+    "name": "iPhone",
+    "location": "South Korea 경기도 시흥",
+    "time": "5시간 전",
+    "deviceType": "iphone"
+  },
+  { "index": 26, "name": "iPhone", "location": "서울", "time": "5시간 전", "deviceType": "iphone" },
   {
     "index": 27,
     "name": "iPhone",
     "location": "South Korea 경기도 시흥",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "deviceType": "iphone"
   },
   {
     "index": 28,
     "name": "iPhone",
     "location": "South Korea 경기도 시흥",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "deviceType": "iphone"
   },
   {
     "index": 29,
     "name": "iPhone",
     "location": "South Korea 경기도 시흥",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "deviceType": "iphone"
   },
-  { "index": 30, "name": "iPhone", "location": "서울", "time": "6시간 전", "deviceType": "iphone" },
+  { "index": 30, "name": "iPhone", "location": "서울", "time": "7시간 전", "deviceType": "iphone" },
   {
     "index": 31,
     "name": "Mac",
     "location": "South Korea 경기도 시흥",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "deviceType": "mac"
   },
   {
     "index": 32,
     "name": "iPhone",
     "location": "South Korea 경기도 시흥",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "deviceType": "iphone"
   },
   {
     "index": 33,
     "name": "iPhone",
     "location": "South Korea 경기도 시흥",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "deviceType": "iphone"
   },
   {
     "index": 34,
     "name": "Mac",
     "location": "South Korea 경기도 시흥",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "deviceType": "mac"
   },
-  { "index": 35, "name": "iPhone", "location": "서울", "time": "6시간 전", "deviceType": "iphone" },
-  { "index": 36, "name": "iPhone", "location": "서울", "time": "8시간 전", "deviceType": "iphone" },
-  { "index": 37, "name": "iPhone", "location": "서울", "time": "10시간 전", "deviceType": "iphone" },
-  { "index": 38, "name": "iPhone", "location": "서울", "time": "11시간 전", "deviceType": "iphone" },
+  { "index": 35, "name": "iPhone", "location": "서울", "time": "7시간 전", "deviceType": "iphone" },
+  { "index": 36, "name": "iPhone", "location": "서울", "time": "9시간 전", "deviceType": "iphone" },
+  { "index": 37, "name": "iPhone", "location": "서울", "time": "11시간 전", "deviceType": "iphone" },
+  { "index": 38, "name": "iPhone", "location": "서울", "time": "12시간 전", "deviceType": "iphone" },
   {
     "index": 39,
     "name": "iPhone",
     "location": "South Korea 경기도 성남",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "deviceType": "iphone"
   },
   {
     "index": 40,
     "name": "iPhone",
     "location": "South Korea 경기도 시흥",
-    "time": "22시간 전",
+    "time": "23시간 전",
     "deviceType": "iphone"
   },
   {
     "index": 41,
     "name": "Linux",
     "location": "South Korea 경기도 시흥",
-    "time": "22시간 전",
+    "time": "23시간 전",
     "deviceType": "pc"
   },
   {
     "index": 42,
     "name": "iPhone",
     "location": "South Korea 경기도 시흥",
-    "time": "23시간 전",
+    "time": "어제 오전 4:49",
     "deviceType": "iphone"
   },
   {
@@ -237,4 +231,4 @@
   }
 ]
 
-Thu May 23 2019 04:00:38 GMT+0900 (Korean Standard Time)
+Thu May 23 2019 05:00:36 GMT+0900 (Korean Standard Time)
