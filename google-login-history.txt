@@ -1,16 +1,10 @@
 [
-  {
-    "index": 0,
-    "name": "C.H의 iPhoneX",
-    "date": "오늘 오후 11:32(방금)",
-    "location": "대한민국",
-    "deviceType": "2"
-  },
+  { "index": 0, "name": "C.H의 iPhoneX", "date": "이 기기", "location": "대한민국", "deviceType": "2" },
   {
     "index": 1,
     "name": "Mac",
-    "date": "오늘 오후 11:13(19분 전)",
-    "location": "19분 전",
+    "date": "오늘 오후 11:32(7분 전)",
+    "location": "7분 전",
     "deviceType": "5"
   },
   {
@@ -58,4 +52,4 @@
   }
 ]
 
-Wed May 22 2019 23:32:38 GMT+0900 (Korean Standard Time)
+Wed May 22 2019 23:39:36 GMT+0900 (Korean Standard Time)
