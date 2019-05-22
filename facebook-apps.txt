@@ -179,7 +179,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=2254487659",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851576_10151614368157660_296370322_n.gif?_nc_cat=1&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=7ae0ead6abb7b773b06b248dc1e6df0a&amp;oe=5D5E2BAA",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851576_10151614368157660_296370322_n.gif?_nc_cat=111&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=7ae0ead6abb7b773b06b248dc1e6df0a&amp;oe=5D5E2BAA",
         "subtext": "삭제됨",
         "text": "BlackBerry Smartphones App",
         "type": "removed",
@@ -261,4 +261,4 @@
   }
 }
 
-Wed May 22 2019 20:00:23 GMT+0900 (Korean Standard Time)
+Wed May 22 2019 21:00:27 GMT+0900 (Korean Standard Time)
