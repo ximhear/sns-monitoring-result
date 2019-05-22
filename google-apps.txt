@@ -1,22 +1,3 @@
-{
-  "applications": [
-    {
-      "index": 1,
-      "type": "first-party",
-      "name": "Google Chrome",
-      "imageUrl": "https://images-lso-opensocial.googleusercontent.com/gadgets/proxy?url=https://lh3.googleusercontent.com/3-c-pq8B4XvQWoom0Yg5b880zH3FAsiyNtZOP53oEEc_bFmFnNzdFpKwUYjgphd9xUWp&container=lso&gadget=a&rewriteMime=image/*&resize_h=120&resize_w=120&no_expand=1&fallback_url=https://www.gstatic.com/ac/security/default_app_icon_0_cf46a687bed2dac7.png",
-      "services": [ { "name": "전체 계정 액세스자세히 알아보기" } ],
-      "permissionPath": ""
-    },
-    {
-      "index": 1,
-      "type": "sign-in",
-      "name": "Pokémon GO",
-      "imageUrl": "https://www.gstatic.com/ac/security/default_app_icon_0_cf46a687bed2dac7.png",
-      "services": [ { "name": "기본 계정 정보내 이메일 주소를 봅니다.개인정보(공개로 설정한 개인정보 포함) 보기" } ],
-      "permissionPath": ""
-    }
-  ]
-}
+error happened -- Thu May 23 2019 00:01:24 GMT+0900 (Korean Standard Time)
 
-Wed May 22 2019 23:39:30 GMT+0900 (Korean Standard Time)
+Thu May 23 2019 00:01:24 GMT+0900 (Korean Standard Time)
