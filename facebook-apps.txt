@@ -123,7 +123,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=1418631828415333",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/10173496_1419392471672602_870859604_n.png?_nc_cat=108&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=f3c94cc86334768bea8b13bcdb6fd0e6&amp;oe=5D6D6D72",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/10173496_1419392471672602_870859604_n.png?_nc_cat=108&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=559562826b993b6bcc7fedd66c557f2b&amp;oe=5D94FA72",
         "subtext": "삭제됨",
         "text": "Sketchfab",
         "type": "removed",
@@ -261,4 +261,4 @@
   }
 }
 
-Wed May 22 2019 04:26:23 GMT+0000 (Coordinated Universal Time)
+Wed May 22 2019 05:26:20 GMT+0000 (Coordinated Universal Time)
