@@ -36,7 +36,8 @@
       "options": [
         { "text": "모든 사람", "checked": false, "itemID": "300645083384735" },
         { "text": "친구의 친구", "checked": true, "itemID": "275425949243301" },
-        { "text": "친구만", "checked": false, "itemID": "291667064279714" }
+        { "text": "친구만", "checked": false, "itemID": "291667064279714" },
+        { "text": "나만 보기", "checked": false, "itemID": "286958161406148" }
       ]
     },
     {
@@ -46,7 +47,8 @@
       "options": [
         { "text": "모든 사람", "checked": false, "itemID": "300645083384735" },
         { "text": "친구의 친구", "checked": true, "itemID": "275425949243301" },
-        { "text": "친구만", "checked": false, "itemID": "291667064279714" }
+        { "text": "친구만", "checked": false, "itemID": "291667064279714" },
+        { "text": "나만 보기", "checked": false, "itemID": "286958161406148" }
       ]
     }
   ],
@@ -94,4 +96,4 @@
   ]
 }
 
-Fri May 24 2019 03:15:44 GMT+0900 (Korean Standard Time)
+Fri May 24 2019 06:15:47 GMT+0900 (Korean Standard Time)
