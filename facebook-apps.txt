@@ -19,7 +19,7 @@
       },
       {
         "path": "/settings/applications/details/?app_id=654085398029607",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/26140908_1313280655443408_8268170597259804672_n.png?_nc_cat=111&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=eac212c5e7a4966bbf757107abe34835&amp;oe=5D98FF11",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/26140908_1313280655443408_8268170597259804672_n.png?_nc_cat=1&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=eac212c5e7a4966bbf757107abe34835&amp;oe=5D98FF11",
         "subtext": "만료됨",
         "text": "SNOW",
         "type": "inactive",
@@ -195,7 +195,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=122660377757288",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851563_548588931831095_2051940507_n.gif?_nc_cat=104&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=bf80bb50159b034d6670bd9267497efa&amp;oe=5D682019",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851563_548588931831095_2051940507_n.gif?_nc_cat=104&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=a31ba65c6fd17ad350ce3c5177a40ce6&amp;oe=5D8FAD19",
         "subtext": "삭제됨",
         "text": "Thumb",
         "type": "removed",
@@ -261,4 +261,4 @@
   }
 }
 
-Sun May 26 2019 12:15:23 GMT+0900 (Korean Standard Time)
+Sun May 26 2019 15:15:23 GMT+0900 (Korean Standard Time)
