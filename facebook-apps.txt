@@ -227,7 +227,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=124059057672479",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851579_463295817082133_1419880111_n.gif?_nc_cat=100&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=f27afec7737a73e87f40b20292d9a926&amp;oe=5D64943C",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851579_463295817082133_1419880111_n.gif?_nc_cat=100&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=01004b44791a224ef10278378b97d7c0&amp;oe=5D8C213C",
         "subtext": "삭제됨",
         "text": "Sparrow",
         "type": "removed",
@@ -235,7 +235,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=118560444864955",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851562_504015909652738_1055994175_n.png?_nc_cat=101&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=9c0081427c158c385d0e60fd9d419a0a&amp;oe=5D64A89B",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851562_504015909652738_1055994175_n.png?_nc_cat=101&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=4d221d19b6263792b6b66b6e384d0404&amp;oe=5D8C359B",
         "subtext": "삭제됨",
         "text": "Tracks",
         "type": "removed",
@@ -261,4 +261,4 @@
   }
 }
 
-Wed May 29 2019 00:00:23 GMT+0900 (Korean Standard Time)
+Wed May 29 2019 12:00:23 GMT+0900 (Korean Standard Time)
