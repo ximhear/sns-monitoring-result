@@ -131,7 +131,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=16995676698",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851575_10151433334956699_669375897_n.gif?_nc_cat=101&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=d6ae5d11cfbc5af929b3ecb9f0ca4673&amp;oe=5D632CDB",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851575_10151433334956699_669375897_n.gif?_nc_cat=101&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=98e7603dfa165857b0a70c6ed60554ba&amp;oe=5D8AB9DB",
         "subtext": "삭제됨",
         "text": "CNET",
         "type": "removed",
@@ -179,7 +179,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=2254487659",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851576_10151614368157660_296370322_n.gif?_nc_cat=111&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=7ae0ead6abb7b773b06b248dc1e6df0a&amp;oe=5D5E2BAA",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851576_10151614368157660_296370322_n.gif?_nc_cat=1&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=7ae0ead6abb7b773b06b248dc1e6df0a&amp;oe=5D5E2BAA",
         "subtext": "삭제됨",
         "text": "BlackBerry Smartphones App",
         "type": "removed",
@@ -203,7 +203,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=254066384616989",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851580_594706933886264_116439221_n.gif?_nc_cat=105&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=77dbc661a8d64dee92ed5fcce05e6c60&amp;oe=5D637581",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851580_594706933886264_116439221_n.gif?_nc_cat=105&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=4e4714a149f281c9c2fe3a66d4aa67e1&amp;oe=5D8B0281",
         "subtext": "삭제됨",
         "text": "ChatON",
         "type": "removed",
@@ -261,4 +261,4 @@
   }
 }
 
-Thu May 30 2019 00:00:29 GMT+0900 (Korean Standard Time)
+Thu May 30 2019 12:00:22 GMT+0900 (Korean Standard Time)
