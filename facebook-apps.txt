@@ -211,7 +211,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=285434331479595",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/851578_455087414601994_1601110696_n.png?_nc_cat=1&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=b581048784c9462329457a11825c26c1&amp;oe=5D614C57",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/851578_455087414601994_1601110696_n.png?_nc_cat=1&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=8a1aa491f9d1e5666f162c6cf3698377&amp;oe=5D88D957",
         "subtext": "삭제됨",
         "text": "GPS Notes",
         "type": "removed",
@@ -243,7 +243,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=108885602497185",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/851578_455087414601994_1601110696_n.png?_nc_cat=1&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=b581048784c9462329457a11825c26c1&amp;oe=5D614C57",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/851578_455087414601994_1601110696_n.png?_nc_cat=1&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=8a1aa491f9d1e5666f162c6cf3698377&amp;oe=5D88D957",
         "subtext": "삭제됨",
         "text": "Turkey",
         "type": "removed",
@@ -251,7 +251,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=101483116663536",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/851578_455087414601994_1601110696_n.png?_nc_cat=1&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=b581048784c9462329457a11825c26c1&amp;oe=5D614C57",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/851578_455087414601994_1601110696_n.png?_nc_cat=1&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=8a1aa491f9d1e5666f162c6cf3698377&amp;oe=5D88D957",
         "subtext": "삭제됨",
         "text": "BBChat01",
         "type": "removed",
@@ -261,4 +261,4 @@
   }
 }
 
-Fri May 31 2019 15:00:19 GMT+0900 (Korean Standard Time)
+Sat Jun 01 2019 00:00:25 GMT+0900 (Korean Standard Time)
