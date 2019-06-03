@@ -1,22 +1,3 @@
-{
-  "applications": [
-    {
-      "index": 1,
-      "type": "sign-in",
-      "name": "Pokémon GO",
-      "imageUrl": "https://www.gstatic.com/ac/security/default_app_icon_0_cf46a687bed2dac7.png",
-      "services": [ { "name": "기본 계정 정보내 이메일 주소를 봅니다.개인정보(공개로 설정한 개인정보 포함) 보기" } ],
-      "permissionPath": ""
-    },
-    {
-      "index": 2,
-      "type": "sign-in",
-      "name": "탑툰 웹 소셜 로그인",
-      "imageUrl": "https://images-lso-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.toptoon.com/assets/img/www/toptoonlogo.png&container=lso&gadget=a&rewriteMime=image/*&resize_h=120&resize_w=120&no_expand=1&fallback_url=https://www.gstatic.com/ac/security/default_app_icon_0_cf46a687bed2dac7.png",
-      "services": [ { "name": "기본 계정 정보개인정보(공개로 설정한 개인정보 포함) 보기내 이메일 주소를 봅니다." } ],
-      "permissionPath": ""
-    }
-  ]
-}
+error happened -- Tue Jun 04 2019 00:01:24 GMT+0900 (Korean Standard Time)
 
-Mon Jun 03 2019 18:00:55 GMT+0900 (Korean Standard Time)
+Tue Jun 04 2019 00:01:24 GMT+0900 (Korean Standard Time)
