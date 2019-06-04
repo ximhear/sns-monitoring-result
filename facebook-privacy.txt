@@ -12,7 +12,7 @@
     },
     {
       "title": "회원님에게 친구 요청을 보낼 수 있는 사람은?",
-      "id": "u_0_8",
+      "id": "u_0_7",
       "settingFBID": "8787540733",
       "options": [
         { "text": "모든 사람", "checked": false, "itemID": "300645083384735" },
@@ -96,4 +96,4 @@
   ]
 }
 
-Tue Jun 04 2019 12:00:54 GMT+0900 (Korean Standard Time)
+Wed Jun 05 2019 00:02:10 GMT+0900 (Korean Standard Time)
