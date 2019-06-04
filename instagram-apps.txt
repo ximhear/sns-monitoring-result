@@ -1,3 +1,3 @@
-error happened -- Tue Jun 04 2019 12:35:47 GMT+0900 (Korean Standard Time)
+{ "authorizations": [] }
 
-Tue Jun 04 2019 12:35:47 GMT+0900 (Korean Standard Time)
+Tue Jun 04 2019 12:36:35 GMT+0900 (Korean Standard Time)
