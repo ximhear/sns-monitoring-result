@@ -19,7 +19,7 @@
       },
       {
         "path": "/settings/applications/details/?app_id=654085398029607",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/26140908_1313280655443408_8268170597259804672_n.png?_nc_cat=1&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=eac212c5e7a4966bbf757107abe34835&amp;oe=5D98FF11",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/26140908_1313280655443408_8268170597259804672_n.png?_nc_cat=111&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=eac212c5e7a4966bbf757107abe34835&amp;oe=5D98FF11",
         "subtext": "만료됨",
         "text": "SNOW",
         "type": "inactive",
@@ -91,7 +91,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=124304810915979",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851563_627210463958742_1602157995_n.gif?_nc_cat=111&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=38f6d4fc9f575783e91914493003ca60&amp;oe=5D59E532",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851563_627210463958742_1602157995_n.gif?_nc_cat=111&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=2c443c0e15859e5dbc11b65ba18c53bf&amp;oe=5D817232",
         "subtext": "삭제됨",
         "text": "ImageShack",
         "type": "removed",
@@ -179,7 +179,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=2254487659",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851576_10151614368157660_296370322_n.gif?_nc_cat=111&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=ab250716e12643e2f860fc8d8b48c863&amp;oe=5D85B8AA",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851576_10151614368157660_296370322_n.gif?_nc_cat=1&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=ab250716e12643e2f860fc8d8b48c863&amp;oe=5D85B8AA",
         "subtext": "삭제됨",
         "text": "BlackBerry Smartphones App",
         "type": "removed",
@@ -261,4 +261,4 @@
   }
 }
 
-Thu Jun 06 2019 00:00:27 GMT+0900 (Korean Standard Time)
+Thu Jun 06 2019 12:00:26 GMT+0900 (Korean Standard Time)
