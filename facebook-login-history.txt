@@ -1,78 +1,78 @@
 [
   { "index": 0, "name": "iPhone", "location": "서울", "time": "현재 활동 중", "deviceType": "iphone" },
-  { "index": 1, "name": "iPhone", "location": "서울", "time": "17초 전", "deviceType": "iphone" },
+  { "index": 1, "name": "iPhone", "location": "서울", "time": "20초 전", "deviceType": "iphone" },
   { "index": 2, "name": "iPhone", "location": "서울", "time": "11시간 전", "deviceType": "iphone" },
   { "index": 3, "name": "iPhone", "location": "서울", "time": "12시간 전", "deviceType": "iphone" },
   { "index": 4, "name": "iPhone", "location": "서울", "time": "12시간 전", "deviceType": "iphone" },
-  {
-    "index": 5,
-    "name": "iPhone",
-    "location": "South Korea 경기도 성남",
-    "time": "21시간 전",
-    "deviceType": "iphone"
-  },
+  { "index": 5, "name": "iPhone", "location": "서울", "time": "23시간 전", "deviceType": "iphone" },
   {
     "index": 6,
     "name": "iPhone",
-    "location": "South Korea 경기도 성남",
-    "time": "21시간 전",
+    "location": "서울",
+    "time": "어제 오전 12:00",
     "deviceType": "iphone"
   },
-  { "index": 7, "name": "iPhone", "location": "서울", "time": "화요일", "deviceType": "iphone" },
+  {
+    "index": 7,
+    "name": "iPhone",
+    "location": "서울",
+    "time": "어제 오전 12:00",
+    "deviceType": "iphone"
+  },
   {
     "index": 8,
     "name": "iPhone",
-    "location": "서울",
-    "time": "어제 오후 12:00",
+    "location": "South Korea 경기도 성남",
+    "time": "6월 5일 오후 3:00",
     "deviceType": "iphone"
   },
   {
     "index": 9,
     "name": "iPhone",
     "location": "South Korea 경기도 성남",
-    "time": "어제 오전 9:00",
+    "time": "6월 5일 오후 3:00",
     "deviceType": "iphone"
   },
   {
     "index": 10,
     "name": "iPhone",
-    "location": "South Korea 경기도 성남",
-    "time": "어제 오전 9:00",
+    "location": "서울",
+    "time": "6월 5일 오후 12:00",
     "deviceType": "iphone"
   },
   {
     "index": 11,
     "name": "iPhone",
-    "location": "South Korea 경기도 성남",
-    "time": "어제 오전 9:00",
+    "location": "서울",
+    "time": "6월 5일 오후 12:00",
     "deviceType": "iphone"
   },
   {
     "index": 12,
     "name": "iPhone",
-    "location": "서울",
-    "time": "어제 오전 12:02",
+    "location": "South Korea 경기도 성남",
+    "time": "6월 5일 오전 9:00",
     "deviceType": "iphone"
   },
   {
     "index": 13,
     "name": "iPhone",
     "location": "서울",
-    "time": "어제 오전 12:00",
+    "time": "6월 5일 오전 12:02",
     "deviceType": "iphone"
   },
   {
     "index": 14,
     "name": "iPhone",
     "location": "서울",
-    "time": "어제 오전 12:00",
+    "time": "6월 5일 오전 12:00",
     "deviceType": "iphone"
   },
   {
     "index": 15,
     "name": "iPhone",
     "location": "서울",
-    "time": "6월 4일 오후 12:00",
+    "time": "6월 5일 오전 12:00",
     "deviceType": "iphone"
   },
   {
@@ -85,8 +85,8 @@
   {
     "index": 17,
     "name": "iPhone",
-    "location": "South Korea 경기도 성남",
-    "time": "6월 4일 오전 10:42",
+    "location": "서울",
+    "time": "6월 4일 오후 12:00",
     "deviceType": "iphone"
   },
   {
@@ -100,22 +100,22 @@
     "index": 19,
     "name": "iPhone",
     "location": "South Korea 경기도 성남",
-    "time": "6월 4일 오전 9:00",
+    "time": "6월 4일 오전 10:42",
     "deviceType": "iphone"
   },
   {
     "index": 20,
     "name": "iPhone",
-    "location": "서울",
-    "time": "6월 4일 오전 12:00",
+    "location": "South Korea 경기도 성남",
+    "time": "6월 4일 오전 9:00",
     "deviceType": "iphone"
   },
   {
     "index": 21,
-    "name": "Mac",
-    "location": "South Korea 경기도 성남",
-    "time": "6월 3일 오후 6:00",
-    "deviceType": "mac"
+    "name": "iPhone",
+    "location": "서울",
+    "time": "6월 4일 오전 12:00",
+    "deviceType": "iphone"
   },
   {
     "index": 22,
@@ -315,4 +315,4 @@
   }
 ]
 
-Thu Jun 06 2019 12:00:40 GMT+0900 (Korean Standard Time)
+Fri Jun 07 2019 00:00:42 GMT+0900 (Korean Standard Time)
