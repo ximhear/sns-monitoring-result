@@ -35,7 +35,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=159693524730858",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/36279912_190543004979243_4598087988759494656_n.png?_nc_cat=108&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=b91d4bdff83cac97071908129356e221&amp;oe=5D574021",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/36279912_190543004979243_4598087988759494656_n.png?_nc_cat=1&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=b91d4bdff83cac97071908129356e221&amp;oe=5D574021",
         "subtext": "삭제됨",
         "text": "eBay",
         "type": "removed",
@@ -261,4 +261,4 @@
   }
 }
 
-Fri Jun 07 2019 09:00:22 GMT+0900 (Korean Standard Time)
+Fri Jun 07 2019 12:00:18 GMT+0900 (Korean Standard Time)
