@@ -1,12 +1,3 @@
-{
-  "authorizations": [
-    {
-      "app_name": "Statusbrew",
-      "app_description": "Complete Social Media Management Solution for Businesses and Brands",
-      "scopes": [],
-      "token": "7879528894.e41ffaa.6359ac1467b0409bb9d5621d619db4ee"
-    }
-  ]
-}
+error happened -- Tue Jun 11 2019 09:03:06 GMT+0900 (Korean Standard Time)
 
-Mon Jun 10 2019 16:48:17 GMT+0900 (Korean Standard Time)
+Tue Jun 11 2019 09:03:06 GMT+0900 (Korean Standard Time)

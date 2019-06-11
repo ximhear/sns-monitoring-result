@@ -19,7 +19,7 @@
       },
       {
         "path": "/settings/applications/details/?app_id=654085398029607",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/26140908_1313280655443408_8268170597259804672_n.png?_nc_cat=1&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=eac212c5e7a4966bbf757107abe34835&amp;oe=5D98FF11",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/26140908_1313280655443408_8268170597259804672_n.png?_nc_cat=111&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=eac212c5e7a4966bbf757107abe34835&amp;oe=5D98FF11",
         "subtext": "만료됨",
         "text": "SNOW",
         "type": "inactive",
@@ -59,7 +59,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=116656161708917",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851560_538235222884340_1077168995_n.gif?_nc_cat=111&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=3b8c81d2ff455e68e1c9789552c091dc&amp;oe=5D53C0C2",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851560_538235222884340_1077168995_n.gif?_nc_cat=111&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=c871c960f77f71d80e8e8efb461f2606&amp;oe=5D7B4DC2",
         "subtext": "삭제됨",
         "text": "ESPN",
         "type": "removed",
@@ -107,7 +107,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=121937287842071",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/10956886_802349049800888_102548092_n.png?_nc_cat=101&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=d5df773649dd78f8e8c198ebd5afb1d9&amp;oe=5D5413A6",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/10956886_802349049800888_102548092_n.png?_nc_cat=101&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=f509c8d41d8e574ef9f47d72e7b15880&amp;oe=5D7BA0A6",
         "subtext": "삭제됨",
         "text": "NPR.org Login",
         "type": "removed",
@@ -155,7 +155,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=233430306748875",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/23550547_1516745325084027_6861609094613041152_n.png?_nc_cat=100&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=3b33b56ac89139d445a5ac153f2034d7&amp;oe=5D53A06C",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/23550547_1516745325084027_6861609094613041152_n.png?_nc_cat=100&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=6a5897bac85b7d1ea21ca5cf11ec5d43&amp;oe=5D7B2D6C",
         "subtext": "삭제됨",
         "text": "살랑살랑 돛단배",
         "type": "removed",
@@ -163,7 +163,7 @@
       },
       {
         "path": "/settings/apps/removed/detail/?app_id=146606125487641",
-        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851582_207291019419151_295792502_n.png?_nc_cat=103&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=12428992c1aa9cdbb8a02e032553da01&amp;oe=5D53C3C9",
+        "photo": "https://scontent-icn1-1.xx.fbcdn.net/v/t39.2080-6/c0.0.76.76a/p75x75/851582_207291019419151_295792502_n.png?_nc_cat=103&amp;_nc_ht=scontent-icn1-1.xx&amp;oh=65fde0ae3afe6f09448e2dedf95070b7&amp;oe=5D7B50C9",
         "subtext": "삭제됨",
         "text": "mopita Login",
         "type": "removed",
@@ -261,4 +261,4 @@
   }
 }
 
-Mon Jun 10 2019 16:47:26 GMT+0900 (Korean Standard Time)
+Tue Jun 11 2019 09:00:43 GMT+0900 (Korean Standard Time)
